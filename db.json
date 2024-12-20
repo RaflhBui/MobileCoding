@@ -3,17 +3,20 @@
     {
       "id": 1,
       "title": "Cách nấu phở bò truyền thống",
-      "body": "Hướng dẫn chi tiết cách nấu phở bò truyền thống."
+      "body": "Hướng dẫn chi tiết cách nấu phở bò truyền thống.",
+      "url": "https://tiki.vn/blog/pho-bo/" // Thêm trường url
     },
     {
       "id": 2,
       "title": "Du lịch Đà Lạt",
-      "body": "Kinh nghiệm du lịch Đà Lạt tự túc: Những địa điểm nên đến và món ăn không thể bỏ qua."
+      "body": "Kinh nghiệm du lịch Đà Lạt tự túc: Những địa điểm nên đến và món ăn không thể bỏ qua.",
+      "url": "https://www.klook.com/vi/blog/dia-diem-du-lich-da-lat/" // Thêm trường url
     },
     {
       "id": 3,
       "title": "Hướng dẫn sử dụng Flutter",
-      "body": "Giới thiệu và hướng dẫn cơ bản về cách sử dụng Flutter để phát triển ứng dụng di động."
+      "body": "Giới thiệu và hướng dẫn cơ bản về cách sử dụng Flutter để phát triển ứng dụng di động.",
+      "url": "https://viblo.asia/p/hoc-flutter-tu-co-ban-den-nang-cao-phan-1-lam-quen-co-nang-flutter-4dbZNJOvZYM" // Thêm trường url
     }
   ],
   "users": [
